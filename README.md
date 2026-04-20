@@ -1,6 +1,6 @@
 # MODERN-UX-UI 🚀
 
-![Modern UX UI](./assets/modern-ui-screenshot.png)
+![Modern UX UI]([./assets/modern-ui-screenshot.png](https://github.com/Wonde-Dev/AI-Project-Builder/blob/a958c1d539f1f40ad50a45f84147e293d5dbe8dc/modernUI-photo.png))
 
 **MODERN-UX-UI** is a cutting-edge, AI-assisted **React + Tailwind CSS** starter kit for building **fast, sleek, and responsive user interfaces**. Focused on **rapid development**, modern UX patterns, and effortless deployment.
 
