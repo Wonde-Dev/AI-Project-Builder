@@ -5,6 +5,7 @@
 **MODERN-UX-UI** is a cutting-edge, AI-assisted **React + Tailwind CSS** starter kit for building **fast, sleek, and responsive user interfaces**. Focused on **rapid development**, modern UX patterns, and effortless deployment.
 
 ---
+View Live Demo (https://aiprojectbuilder.netlify.app/)
 
 ## ✨ Features
 
